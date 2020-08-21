@@ -21,7 +21,7 @@ With thanks to [Szymex73](https://github.com/szymex73) for snippets **1-3**
 
 Note: you will not recieve any confirmation output, you can use the snippet below to verify that your instances have now begun terminating.
 
-### Check what VMs/Instances are currently and the rooms they're deployed within
+### Check what VMs/Instances are currently deployed and the rooms they're deployed within
 1. Copy the code from the [snippet](check-what-vms-are-deployed-and-where.js)
 2. Access the devtools/console of your web browser whilst logged into TryHackMe
 3. Run the code within the browsers devtools/console 
