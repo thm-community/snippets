@@ -1,5 +1,5 @@
 <p align="center"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="350" title="TryHackMe Logo"></p>
-<p align="center">API Py</p>
+<p align="center">Snippets</p>
 
 Here are some very useful community snippets that allow you to interact with the THM API all within your browsers devtools/console
 
