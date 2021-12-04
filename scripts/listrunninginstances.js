@@ -1,4 +1,4 @@
-fetch('/api/running-instances')
+fetch('/api/vm/running')
   .then(r=>r.json())
   .then(vms => 
     vms.forEach(vm => 
